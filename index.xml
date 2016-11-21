@@ -7,8 +7,89 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2016 cooloi.com</copyright>
-    <lastBuildDate>Mon, 21 Nov 2016 12:18:46 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Nov 2016 14:14:07 +0800</lastBuildDate>
     <atom:link href="http://cooloi.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>python</title>
+      <link>http://cooloi.com/python/</link>
+      <pubDate>Mon, 21 Nov 2016 14:14:07 +0800</pubDate>
+      
+      <guid>http://cooloi.com/python/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;# Hello world in Python 3 (aka Python 3000)
+
+print(&amp;quot;Hello World&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>http://cooloi.com/javascript/</link>
+      <pubDate>Mon, 21 Nov 2016 14:13:25 +0800</pubDate>
+      
+      <guid>http://cooloi.com/javascript/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;// Hello World in JavaScript
+
+document.write(&#39;Hello World&#39;);
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>http://cooloi.com/go/</link>
+      <pubDate>Mon, 21 Nov 2016 14:12:27 +0800</pubDate>
+      
+      <guid>http://cooloi.com/go/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;// Hello world in Go
+
+package main
+import &amp;quot;fmt&amp;quot;
+func main() {
+ fmt.Printf(&amp;quot;Hello World\n&amp;quot;)
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>c sharp</title>
+      <link>http://cooloi.com/c-sharp/</link>
+      <pubDate>Mon, 21 Nov 2016 14:11:21 +0800</pubDate>
+      
+      <guid>http://cooloi.com/c-sharp/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;//Hello World in C#
+
+class HelloWorld
+{
+    static void Main()
+    {
+        System.Console.WriteLine(&amp;quot;Hello, World!&amp;quot;);
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>cpp</title>
+      <link>http://cooloi.com/cpp/</link>
+      <pubDate>Mon, 21 Nov 2016 14:10:21 +0800</pubDate>
+      
+      <guid>http://cooloi.com/cpp/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;// Hello World in C++
+
+#include &amp;lt;iostream&amp;gt;
+
+main()
+{
+    cout &amp;lt;&amp;lt; &amp;quot;Hello World!&amp;quot; &amp;lt;&amp;lt; endl;
+    return 0;
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
     
     <item>
       <title>helloworld</title>
